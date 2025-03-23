@@ -3,7 +3,7 @@ package paquete1;
 import java.util.Objects;
 
 //Falta implementar interfaz esLiquido
-
+//Cambio sin importancia...
 public final class Detergente extends Productos implements ConDescuento {
 	//Propiedades expansion detergente:
 	private double cantidadLitros;
